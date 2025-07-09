@@ -1,0 +1,343 @@
+
+ 
+2025-06-26T21:47:33.322Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":57} { metadata: undefined }
+2025-06-26T21:47:33.344Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":55,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-26T21:47:33.345Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":58} { metadata: undefined }
+2025-06-26T21:47:33.345Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":56,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-26T22:02:35.075Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":59} { metadata: undefined }
+2025-06-26T22:02:35.078Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":57,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-26T22:02:35.078Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":60} { metadata: undefined }
+2025-06-26T22:02:35.083Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":58,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T06:34:20.386Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":61} { metadata: undefined }
+2025-06-27T06:34:20.388Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":59,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T06:34:20.391Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":62} { metadata: undefined }
+2025-06-27T06:34:20.391Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":60,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T06:36:50.241Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":63} { metadata: undefined }
+2025-06-27T06:44:20.387Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":61,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T06:44:20.390Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":64} { metadata: undefined }
+2025-06-27T06:44:20.392Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":62,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T06:46:50.237Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":65} { metadata: undefined }
+2025-06-27T06:47:50.243Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":63,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T06:47:50.248Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":66} { metadata: undefined }
+2025-06-27T06:54:50.238Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":64,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T06:56:50.242Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":67} { metadata: undefined }
+2025-06-27T06:56:50.243Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":65,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T06:56:50.247Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":68} { metadata: undefined }
+2025-06-27T06:57:50.249Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":66,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T07:06:50.238Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":69} { metadata: undefined }
+2025-06-27T07:07:50.233Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":67,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T07:07:50.237Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":70} { metadata: undefined }
+2025-06-27T07:07:50.243Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":68,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T07:19:47.338Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":71} { metadata: undefined }
+2025-06-27T07:19:47.339Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":69,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T07:19:47.352Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":72} { metadata: undefined }
+2025-06-27T07:19:47.353Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":70,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T07:26:50.250Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":73} { metadata: undefined }
+2025-06-27T07:29:50.254Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":71,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T07:29:50.269Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":74} { metadata: undefined }
+2025-06-27T07:29:50.269Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":72,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T07:36:50.249Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":75} { metadata: undefined }
+2025-06-27T07:36:50.263Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":73,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T07:36:50.268Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":76} { metadata: undefined }
+2025-06-27T07:39:50.263Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":74,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T07:45:55.551Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":77} { metadata: undefined }
+2025-06-27T07:46:50.249Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":75,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T07:46:50.251Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":78} { metadata: undefined }
+2025-06-27T07:46:50.269Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":76,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T07:55:55.550Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":79} { metadata: undefined }
+2025-06-27T07:55:55.551Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":77,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T07:55:55.551Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":80} { metadata: undefined }
+2025-06-27T07:56:50.251Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":78,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T08:05:55.553Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":81} { metadata: undefined }
+2025-06-27T08:05:55.569Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":79,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T08:05:55.569Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":82} { metadata: undefined }
+2025-06-27T08:05:55.569Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":80,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T08:10:50.539Z [obsidian-mcp] [info] Message from client: {"method":"tools/call","params":{"name":"list-available-vaults","arguments":{}},"jsonrpc":"2.0","id":83} { metadata: undefined }
+2025-06-27T08:12:40.962Z [obsidian-mcp] [info] Message from client: {"method":"tools/call","params":{"name":"list-available-vaults","arguments":{}},"jsonrpc":"2.0","id":84} { metadata: undefined }
+2025-06-27T08:14:50.554Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":83,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T08:15:55.551Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":85} { metadata: undefined }
+2025-06-27T08:15:55.569Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":81,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T08:15:55.573Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":86} { metadata: undefined }
+2025-06-27T08:15:55.574Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":82,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T08:16:40.975Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":84,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T08:25:55.555Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":87} { metadata: undefined }
+2025-06-27T08:25:55.557Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":85,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T08:25:55.558Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":88} { metadata: undefined }
+2025-06-27T08:25:55.571Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":86,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T08:35:55.550Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":89} { metadata: undefined }
+2025-06-27T08:35:55.556Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":87,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T08:35:55.557Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":90} { metadata: undefined }
+2025-06-27T08:35:55.558Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":88,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T08:45:55.551Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":91} { metadata: undefined }
+2025-06-27T08:45:55.553Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":89,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T08:45:55.554Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":92} { metadata: undefined }
+2025-06-27T08:45:55.558Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":90,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T09:21:18.530Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":93} { metadata: undefined }
+2025-06-27T09:21:18.531Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":91,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T09:21:18.532Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":94} { metadata: undefined }
+2025-06-27T09:21:18.532Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":92,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T09:25:55.550Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":95} { metadata: undefined }
+2025-06-27T09:31:18.519Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":93,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T09:31:18.522Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":96} { metadata: undefined }
+2025-06-27T09:31:18.522Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":94,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T09:35:55.551Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":97} { metadata: undefined }
+2025-06-27T09:35:55.552Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":95,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T09:35:55.552Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":98} { metadata: undefined }
+2025-06-27T09:41:18.524Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":96,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T09:45:55.562Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":99} { metadata: undefined }
+2025-06-27T09:45:55.564Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":97,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T09:45:55.564Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":100} { metadata: undefined }
+2025-06-27T09:45:55.565Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":98,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T09:55:55.561Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":101} { metadata: undefined }
+2025-06-27T09:55:55.562Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":99,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T09:55:55.562Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":102} { metadata: undefined }
+2025-06-27T09:55:55.563Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":100,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T10:05:55.560Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":103} { metadata: undefined }
+2025-06-27T10:05:55.575Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":101,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T10:05:55.576Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":104} { metadata: undefined }
+2025-06-27T10:05:55.577Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":102,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T10:15:55.551Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":105} { metadata: undefined }
+2025-06-27T10:15:55.567Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":103,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T10:15:55.569Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":106} { metadata: undefined }
+2025-06-27T10:15:55.583Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":104,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T10:25:55.558Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":107} { metadata: undefined }
+2025-06-27T10:25:55.559Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":105,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T10:25:55.559Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":108} { metadata: undefined }
+2025-06-27T10:25:55.570Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":106,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T10:35:55.555Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":109} { metadata: undefined }
+2025-06-27T10:35:55.571Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":107,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T10:35:55.572Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":110} { metadata: undefined }
+2025-06-27T10:35:55.572Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":108,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T10:45:55.559Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":111} { metadata: undefined }
+2025-06-27T10:45:55.575Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":109,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T10:45:55.576Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":112} { metadata: undefined }
+2025-06-27T10:45:55.576Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":110,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T10:55:55.561Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":113} { metadata: undefined }
+2025-06-27T10:55:55.562Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":111,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T10:55:55.563Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":114} { metadata: undefined }
+2025-06-27T10:55:55.563Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":112,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T11:05:55.555Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":115} { metadata: undefined }
+2025-06-27T11:05:55.577Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":113,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T11:05:55.578Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":116} { metadata: undefined }
+2025-06-27T11:05:55.578Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":114,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T11:15:55.564Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":117} { metadata: undefined }
+2025-06-27T11:15:55.565Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":115,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T11:15:55.579Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":118} { metadata: undefined }
+2025-06-27T11:15:55.580Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":116,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T12:02:56.654Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":119} { metadata: undefined }
+2025-06-27T12:02:56.655Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":117,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T12:02:56.657Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":120} { metadata: undefined }
+2025-06-27T12:02:56.658Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":118,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T22:59:28.681Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":121} { metadata: undefined }
+2025-06-27T22:59:28.683Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":119,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T22:59:28.683Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":122} { metadata: undefined }
+2025-06-27T22:59:28.684Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":120,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T23:05:56.744Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":123} { metadata: undefined }
+2025-06-27T23:09:29.826Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":121,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T23:09:29.840Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":124} { metadata: undefined }
+2025-06-27T23:09:29.841Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":122,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T23:15:56.735Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":125} { metadata: undefined }
+2025-06-27T23:15:56.736Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":123,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T23:15:56.737Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":126} { metadata: undefined }
+2025-06-27T23:19:29.835Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":124,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T23:25:56.729Z [obsidian-mcp] [info] Message from client: {"method":"resources/list","params":{},"jsonrpc":"2.0","id":127} { metadata: undefined }
+2025-06-27T23:25:56.736Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":125,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T23:25:56.736Z [obsidian-mcp] [info] Message from client: {"method":"prompts/list","params":{},"jsonrpc":"2.0","id":128} { metadata: undefined }
+2025-06-27T23:25:56.738Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":126,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T23:26:46.491Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }
+2025-06-27T23:26:46.496Z [obsidian-mcp] [info] Server transport closed { metadata: undefined }
+2025-06-27T23:26:46.496Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }
+2025-06-27T23:26:46.497Z [obsidian-mcp] [info] Server transport closed (intentional shutdown) { metadata: undefined }
+2025-06-27T23:26:46.497Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }
+2025-06-27T23:26:46.571Z [Runner] STDIN closed (client disconnected)
+2025-06-27T23:26:46.628Z [Runner] Exit handler triggered, starting shutdown...
+2025-06-27T23:26:46.488Z [obsidian-mcp] [info] Shutting down server... { metadata: undefined }
+2025-06-27T23:26:46.632Z [Runner] Starting cleanup...
+2025-06-27T23:26:46.633Z [Runner] Attempting to close transport...
+2025-06-27T23:26:46.667Z [Runner] Child process terminated
+2025-06-27T23:26:46.672Z [Runner] Final cleanup on exit
+2025-06-27T23:28:50.221Z [obsidian-mcp] [info] Initializing server... { metadata: undefined }
+2025-06-27T23:28:50.261Z [obsidian-mcp] [info] Server started and connected successfully { metadata: undefined }
+2025-06-27T23:28:50.269Z [obsidian-mcp] [info] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0} { metadata: undefined }
+2025-06-27T23:29:09.921Z [Runner] Connecting to server: {"id":"obsidian-mcp","connectionTypes":["stdio"]}
+2025-06-27T23:29:09.923Z [Runner] Starting child process setup...
+2025-06-27T23:29:10.405Z [Runner] Windows platform detected, using cmd /c for npx
+2025-06-27T23:29:10.405Z [Runner] Executing: {"command":"cmd","args":["/c","npx","-y","obsidian-mcp","C:\\Users\\eugene\\Documents\\Obsidian\\Winterbud-03M"]}
+Error: Not a valid Obsidian vault (C:\Users\eugene\Documents\Obsidian\Winterbud-03M)
+Missing or incomplete .obsidian configuration
+
+To fix this:
+1. Open Obsidian
+2. Click "Open folder as vault"
+3. Select the directory: C:\Users\eugene\Documents\Obsidian\Winterbud-03M
+4. Wait for Obsidian to initialize the vault
+5. Try running this command again
+2025-06-27T23:29:12.277Z [Runner] Child process terminated
+2025-06-27T23:29:12.278Z [Runner] Process terminated unexpectedly while running
+2025-06-27T23:29:12.278Z [Runner] Exit handler triggered, starting shutdown...
+2025-06-27T23:29:12.278Z [Runner] Starting cleanup...
+2025-06-27T23:29:12.278Z [Runner] Attempting to close transport...
+2025-06-27T23:29:12.278Z [Runner] Transport closed successfully
+2025-06-27T23:29:12.278Z [Runner] Cleanup completed
+2025-06-27T23:29:50.269Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":0,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T23:29:50.270Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }
+2025-06-27T23:29:50.273Z [obsidian-mcp] [info] Server transport closed { metadata: undefined }
+2025-06-27T23:29:50.273Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }
+2025-06-27T23:29:50.274Z [obsidian-mcp] [info] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log. { metadata: undefined }
+2025-06-27T23:29:50.274Z [obsidian-mcp] [error] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging) { metadata: { context: 'connection', stack: undefined } }
+2025-06-27T23:29:50.278Z [Runner] STDIN closed (client disconnected)
+2025-06-27T23:29:50.278Z [Runner] Exit handler triggered, starting shutdown...
+2025-06-27T23:29:50.278Z [Runner] Cleanup already in progress, skipping...
+2025-06-27T23:35:58.452Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }
+2025-06-27T23:35:58.452Z [obsidian-mcp] [info] Shutting down server... { metadata: undefined }
+2025-06-27T23:36:33.818Z [obsidian-mcp] [info] Initializing server... { metadata: undefined }
+2025-06-27T23:36:33.835Z [obsidian-mcp] [info] Server started and connected successfully { metadata: undefined }
+2025-06-27T23:36:33.837Z [obsidian-mcp] [info] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0} { metadata: undefined }
+2025-06-27T23:36:35.900Z [Runner] Connecting to server: {"id":"obsidian-mcp","connectionTypes":["stdio"]}
+2025-06-27T23:36:35.904Z [Runner] Starting child process setup...
+2025-06-27T23:36:36.356Z [Runner] Windows platform detected, using cmd /c for npx
+2025-06-27T23:36:36.356Z [Runner] Executing: {"command":"cmd","args":["/c","npx","-y","obsidian-mcp","C:\\Users\\eugene\\Documents\\Obsidian\\Winterbud-03M"]}
+Error: Not a valid Obsidian vault (C:\Users\eugene\Documents\Obsidian\Winterbud-03M)
+Missing or incomplete .obsidian configuration
+
+To fix this:
+1. Open Obsidian
+2. Click "Open folder as vault"
+3. Select the directory: C:\Users\eugene\Documents\Obsidian\Winterbud-03M
+4. Wait for Obsidian to initialize the vault
+5. Try running this command again
+2025-06-27T23:36:37.563Z [Runner] Child process terminated
+2025-06-27T23:36:37.563Z [Runner] Process terminated unexpectedly while running
+2025-06-27T23:36:37.563Z [Runner] Exit handler triggered, starting shutdown...
+2025-06-27T23:36:37.563Z [Runner] Starting cleanup...
+2025-06-27T23:36:37.563Z [Runner] Attempting to close transport...
+2025-06-27T23:36:37.563Z [Runner] Transport closed successfully
+2025-06-27T23:36:37.563Z [Runner] Cleanup completed
+2025-06-27T23:37:33.848Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":0,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-27T23:37:33.849Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }
+2025-06-27T23:37:33.851Z [obsidian-mcp] [info] Server transport closed { metadata: undefined }
+2025-06-27T23:37:33.851Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }
+2025-06-27T23:37:33.852Z [obsidian-mcp] [info] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log. { metadata: undefined }
+2025-06-27T23:37:33.852Z [obsidian-mcp] [error] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging) { metadata: { context: 'connection', stack: undefined } }
+2025-06-27T23:37:33.847Z [Runner] STDIN closed (client disconnected)
+2025-06-27T23:37:33.847Z [Runner] Exit handler triggered, starting shutdown...
+2025-06-27T23:37:33.847Z [Runner] Cleanup already in progress, skipping...
+2025-06-27T23:59:09.349Z [Runner] Exit handler triggered, starting shutdown...
+2025-06-27T23:59:09.373Z [Runner] Cleanup already in progress, skipping...
+2025-06-27T23:59:09.381Z [Runner] Final cleanup on exit
+2025-06-28T00:01:30.121Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }
+2025-06-28T00:01:30.120Z [obsidian-mcp] [info] Shutting down server... { metadata: undefined }
+2025-06-28T00:01:34.739Z [obsidian-mcp] [info] Initializing server... { metadata: undefined }
+2025-06-28T00:01:34.762Z [obsidian-mcp] [info] Server started and connected successfully { metadata: undefined }
+2025-06-28T00:01:34.775Z [obsidian-mcp] [info] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0} { metadata: undefined }
+2025-06-28T00:01:37.678Z [Runner] Connecting to server: {"id":"obsidian-mcp","connectionTypes":["stdio"]}
+2025-06-28T00:01:37.680Z [Runner] Starting child process setup...
+2025-06-28T00:01:38.138Z [Runner] Windows platform detected, using cmd /c for npx
+2025-06-28T00:01:38.138Z [Runner] Executing: {"command":"cmd","args":["/c","npx","-y","obsidian-mcp","C:\\Users\\eugene\\Documents\\Obsidian\\Winterbud-03M"]}
+Error: Not a valid Obsidian vault (C:\Users\eugene\Documents\Obsidian\Winterbud-03M)
+Missing or incomplete .obsidian configuration
+
+To fix this:
+1. Open Obsidian
+2. Click "Open folder as vault"
+3. Select the directory: C:\Users\eugene\Documents\Obsidian\Winterbud-03M
+4. Wait for Obsidian to initialize the vault
+5. Try running this command again
+2025-06-28T00:01:39.518Z [Runner] Child process terminated
+2025-06-28T00:01:39.518Z [Runner] Process terminated unexpectedly while running
+2025-06-28T00:01:39.518Z [Runner] Exit handler triggered, starting shutdown...
+2025-06-28T00:01:39.518Z [Runner] Starting cleanup...
+2025-06-28T00:01:39.518Z [Runner] Attempting to close transport...
+2025-06-28T00:01:39.519Z [Runner] Transport closed successfully
+2025-06-28T00:01:39.519Z [Runner] Cleanup completed
+2025-06-28T00:02:34.786Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":0,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-28T00:02:34.787Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }
+2025-06-28T00:02:34.789Z [obsidian-mcp] [info] Server transport closed { metadata: undefined }
+2025-06-28T00:02:34.789Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }
+2025-06-28T00:02:34.789Z [obsidian-mcp] [info] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log. { metadata: undefined }
+2025-06-28T00:02:34.790Z [obsidian-mcp] [error] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging) { metadata: { context: 'connection', stack: undefined } }
+2025-06-28T00:02:34.792Z [Runner] STDIN closed (client disconnected)
+2025-06-28T00:02:34.792Z [Runner] Exit handler triggered, starting shutdown...
+2025-06-28T00:02:34.793Z [Runner] Cleanup already in progress, skipping...
+2025-06-28T00:06:35.414Z [Runner] Exit handler triggered, starting shutdown...
+2025-06-28T00:06:35.425Z [Runner] Cleanup already in progress, skipping...
+2025-06-28T00:06:35.431Z [Runner] Final cleanup on exit
+2025-06-28T00:13:00.608Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }
+2025-06-28T00:13:00.608Z [obsidian-mcp] [info] Shutting down server... { metadata: undefined }
+2025-06-28T00:13:06.447Z [obsidian-mcp] [info] Initializing server... { metadata: undefined }
+2025-06-28T00:13:06.474Z [obsidian-mcp] [info] Server started and connected successfully { metadata: undefined }
+2025-06-28T00:13:06.476Z [obsidian-mcp] [info] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0} { metadata: undefined }
+2025-06-28T00:13:08.827Z [Runner] Connecting to server: {"id":"obsidian-mcp","connectionTypes":["stdio"]}
+2025-06-28T00:13:08.829Z [Runner] Starting child process setup...
+2025-06-28T00:13:09.301Z [Runner] Windows platform detected, using cmd /c for npx
+2025-06-28T00:13:09.301Z [Runner] Executing: {"command":"cmd","args":["/c","npx","-y","obsidian-mcp","C:\\Users\\eugene\\Documents\\Obsidian\\Winterbud-03M"]}
+Error: Not a valid Obsidian vault (C:\Users\eugene\Documents\Obsidian\Winterbud-03M)
+Missing or incomplete .obsidian configuration
+
+To fix this:
+1. Open Obsidian
+2. Click "Open folder as vault"
+3. Select the directory: C:\Users\eugene\Documents\Obsidian\Winterbud-03M
+4. Wait for Obsidian to initialize the vault
+5. Try running this command again
+2025-06-28T00:13:10.543Z [Runner] Child process terminated
+2025-06-28T00:13:10.544Z [Runner] Process terminated unexpectedly while running
+2025-06-28T00:13:10.544Z [Runner] Exit handler triggered, starting shutdown...
+2025-06-28T00:13:10.544Z [Runner] Starting cleanup...
+2025-06-28T00:13:10.544Z [Runner] Attempting to close transport...
+2025-06-28T00:13:10.544Z [Runner] Transport closed successfully
+2025-06-28T00:13:10.544Z [Runner] Cleanup completed
+2025-06-28T00:14:06.477Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":0,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-28T00:14:06.479Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }
+2025-06-28T00:14:06.481Z [obsidian-mcp] [info] Server transport closed { metadata: undefined }
+2025-06-28T00:14:06.481Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }
+2025-06-28T00:14:06.482Z [obsidian-mcp] [info] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log. { metadata: undefined }
+2025-06-28T00:14:06.482Z [obsidian-mcp] [error] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging) { metadata: { context: 'connection', stack: undefined } }
+2025-06-28T00:14:06.488Z [Runner] STDIN closed (client disconnected)
+2025-06-28T00:14:06.488Z [Runner] Exit handler triggered, starting shutdown...
+2025-06-28T00:14:06.489Z [Runner] Cleanup already in progress, skipping...
+2025-06-28T00:25:13.453Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }
+2025-06-28T00:25:13.452Z [obsidian-mcp] [info] Shutting down server... { metadata: undefined }
+2025-06-28T00:25:19.943Z [obsidian-mcp] [info] Initializing server... { metadata: undefined }
+2025-06-28T00:25:19.964Z [obsidian-mcp] [info] Server started and connected successfully { metadata: undefined }
+2025-06-28T00:25:19.967Z [obsidian-mcp] [info] Message from client: {"method":"initialize","params":{"protocolVersion":"2024-11-05","capabilities":{},"clientInfo":{"name":"claude-ai","version":"0.1.0"}},"jsonrpc":"2.0","id":0} { metadata: undefined }
+2025-06-28T00:25:21.754Z [Runner] Connecting to server: {"id":"obsidian-mcp","connectionTypes":["stdio"]}
+2025-06-28T00:25:21.757Z [Runner] Starting child process setup...
+2025-06-28T00:25:22.209Z [Runner] Windows platform detected, using cmd /c for npx
+2025-06-28T00:25:22.209Z [Runner] Executing: {"command":"cmd","args":["/c","npx","-y","obsidian-mcp","C:\\Users\\eugene\\Documents\\Obsidian\\Winterbud-03M"]}
+Error: Not a valid Obsidian vault (C:\Users\eugene\Documents\Obsidian\Winterbud-03M)
+Missing or incomplete .obsidian configuration
+
+To fix this:
+1. Open Obsidian
+2. Click "Open folder as vault"
+3. Select the directory: C:\Users\eugene\Documents\Obsidian\Winterbud-03M
+4. Wait for Obsidian to initialize the vault
+5. Try running this command again
+2025-06-28T00:25:23.457Z [Runner] Child process terminated
+2025-06-28T00:25:23.457Z [Runner] Process terminated unexpectedly while running
+2025-06-28T00:25:23.457Z [Runner] Exit handler triggered, starting shutdown...
+2025-06-28T00:25:23.457Z [Runner] Starting cleanup...
+2025-06-28T00:25:23.457Z [Runner] Attempting to close transport...
+2025-06-28T00:25:23.458Z [Runner] Transport closed successfully
+2025-06-28T00:25:23.458Z [Runner] Cleanup completed
+2025-06-28T00:26:19.972Z [obsidian-mcp] [info] Message from client: {"jsonrpc":"2.0","method":"notifications/cancelled","params":{"requestId":0,"reason":"Error: MCP error -32001: Request timed out"}} { metadata: undefined }
+2025-06-28T00:26:19.974Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }
+2025-06-28T00:26:19.978Z [obsidian-mcp] [info] Server transport closed { metadata: undefined }
+2025-06-28T00:26:19.978Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }
+2025-06-28T00:26:19.979Z [obsidian-mcp] [info] Server transport closed unexpectedly, this is likely due to the process exiting early. If you are developing this MCP server you can add output to stderr (i.e. `console.error('...')` in JavaScript, `print('...', file=sys.stderr)` in python) and it will appear in this log. { metadata: undefined }
+2025-06-28T00:26:19.980Z [obsidian-mcp] [error] Server disconnected. For troubleshooting guidance, please visit our [debugging documentation](https://modelcontextprotocol.io/docs/tools/debugging) { metadata: { context: 'connection', stack: undefined } }
+2025-06-28T00:26:19.975Z [Runner] STDIN closed (client disconnected)
+2025-06-28T00:26:19.975Z [Runner] Exit handler triggered, starting shutdown...
+2025-06-28T00:26:19.975Z [Runner] Cleanup already in progress, skipping...
+2025-06-28T00:31:37.157Z [Runner] Exit handler triggered, starting shutdown...
+2025-06-28T00:31:37.173Z [Runner] Cleanup already in progress, skipping...
+2025-06-28T00:31:37.180Z [Runner] Final cleanup on exit
+2025-06-28T00:43:08.281Z [Runner] Exit handler triggered, starting shutdown...
+2025-06-28T00:43:08.286Z [Runner] Cleanup already in progress, skipping...
+2025-06-28T00:43:08.288Z [Runner] Final cleanup on exit
+2025-06-28T00:55:21.195Z [Runner] Exit handler triggered, starting shutdown...
+2025-06-28T00:55:21.198Z [Runner] Cleanup already in progress, skipping...
+2025-06-28T00:55:21.198Z [Runner] Final cleanup on exit
+2025-06-28T00:55:21.258Z [obsidian-mcp] [info] Server transport closed { metadata: undefined }
+2025-06-28T00:55:21.259Z [obsidian-mcp] [info] Client transport closed { metadata: undefined }

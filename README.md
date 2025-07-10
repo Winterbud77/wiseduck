@@ -1,1 +1,1 @@
-This is first time for me to join into the GitHub World. So I don't know how to handle the probles and what to to do at the moment. But I'm sure I'll be go along with the problems in the near future. Thanks
+This is first time for me to join into the GitHub World. 
